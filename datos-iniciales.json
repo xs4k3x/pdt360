@@ -1,0 +1,215 @@
+{
+ "app": "pdt360",
+ "version": "1.0.0",
+ "exportedAt": "2026-10-20T17:20:00Z",
+ "weeks": {
+  "2026-W44": {
+   "days": [
+    {
+     "am": "none",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "gym",
+     "work": true
+    },
+    {
+     "am": "other",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "gym",
+     "work": true
+    },
+    {
+     "am": "none",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "gym",
+     "work": true
+    },
+    {
+     "am": "none",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "cf",
+     "work": true
+    },
+    {
+     "am": "none",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "none",
+     "work": true
+    },
+    {
+     "am": "none",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "none",
+     "work": false
+    },
+    {
+     "am": "none",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "none",
+     "work": true
+    }
+   ],
+   "deload": false,
+   "plan": {
+    "am": [
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ],
+    "pm": [
+     "PIERNA",
+     "PULL",
+     "PUSH",
+     "CROSSFIT",
+     null,
+     null,
+     null
+    ]
+   },
+   "updatedAt": "2026-10-20T14:07:37.391Z"
+  },
+  "2026-W43": {
+   "days": [
+    {
+     "am": "none",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "gym",
+     "work": false
+    },
+    {
+     "am": "hard",
+     "desc": "2×(4×500 m en VAM) rec 90″ / 4′",
+     "descPm": "",
+     "off": true,
+     "pm": "gym",
+     "work": true
+    },
+    {
+     "am": "auto",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "gym",
+     "work": false
+    },
+    {
+     "am": "auto",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "cf",
+     "work": false
+    },
+    {
+     "am": "gym",
+     "desc": "",
+     "descPm": "",
+     "off": false,
+     "pm": "none",
+     "work": false
+    },
+    {
+     "am": "none",
+     "desc": "",
+     "descPm": "",
+     "off": true,
+     "pm": "none",
+     "work": false
+    },
+    {
+     "am": "none",
+     "desc": "",
+     "descPm": "",
+     "off": true,
+     "pm": "none",
+     "work": true
+    }
+   ],
+   "deload": false,
+   "plan": {
+    "am": [
+     null,
+     null,
+     "RUN_VAM",
+     "RUN_Z2",
+     "PUSH",
+     null,
+     null
+    ],
+    "pm": [
+     "PIERNA",
+     null,
+     "PULL",
+     "CROSSFIT",
+     null,
+     null,
+     null
+    ]
+   },
+   "updatedAt": "2026-10-20T14:08:17.411Z"
+  }
+ },
+ "logs": [],
+ "config": {
+  "absences": [],
+  "bw": 92,
+  "marks": {
+   "bench": {
+    "date": "2026-10-20",
+    "kg": 90,
+    "maxReps": 10,
+    "reps": 5,
+    "rir": "3",
+    "sets": 4
+   },
+   "hack": {
+    "date": "2026-10-20",
+    "kg": 60,
+    "reps": 6,
+    "rir": "1",
+    "sets": 4
+   },
+   "ohp_db": {
+    "date": "2026-10-20",
+    "kg": 27.5,
+    "maxReps": 12,
+    "reps": 7,
+    "rir": "3",
+    "sets": 4
+   },
+   "pullup": {
+    "date": "2026-10-20",
+    "kg": 20,
+    "maxReps": 8,
+    "reps": 6,
+    "rir": "1",
+    "sets": 4
+   }
+  },
+  "run": {
+   "blockStart": "2026-10-19",
+   "goal": "7:30",
+   "t2k": "8:00"
+  }
+ },
+ "reports": []
+}

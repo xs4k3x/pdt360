@@ -1,0 +1,32 @@
+{
+  "name": "PDT 360 · Physical Duty Training",
+  "short_name": "PDT 360",
+  "description": "Physical Duty Training 360: fuerza, HIT/HIIT y carrera planificados alrededor del servicio.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#141913",
+  "theme_color": "#141913",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
